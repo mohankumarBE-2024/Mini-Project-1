@@ -1,7 +1,6 @@
-# Mini-Project-1
-Game Analytics: Unlocking Tennis Data with SportRadar API
+# Mini-Project-1: Game Analytics: Unlocking Tennis Data with SportRadar API
 
-# Tennis Data Web Application
+# Overview
 
 This project involves fetching tennis data from external APIs, processing the data, and displaying it using a web application built with Streamlit. The data is stored and managed using PostgreSQL, and users can interact with the data through a user-friendly interface. The application includes features such as a dashboard, competitor search and filter, competitor details viewer, country-wise analysis, and leaderboards.
 
